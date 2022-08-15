@@ -43,6 +43,9 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 
+#IDE Webstorm
+/.idea/
+
 # temporary workaround
 /docker/data/cm/*
 !/docker/data/cm/.gitkeep
